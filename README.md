@@ -6,4 +6,4 @@ Also necessary actions will also be taken to bring back the conditions within de
 - BMP280 pressure sensor
 - solid state relays and buck module
 <br>
-Spiffs or serial peripheral flash file system protocol is used. Please organizied the files as shown on the image.
+Spiffs or serial peripheral flash file system protocol is used. Please organizied the files as shown on the layout image.
